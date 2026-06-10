@@ -1,6 +1,6 @@
 # Prerequisites
-#
-- JDK 17 
+# Asta will become wizard king
+- JDK 21
 - Maven 3.9 
 - MySQL 8
 
